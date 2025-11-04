@@ -1,0 +1,27 @@
+p{
+color: blue;
+background-color: red;
+} 
+.rt{
+  color: rgb(255, 0, 106);
+  background-color: bisque;
+  font-size:30px ;
+} 
+body{
+    background-color: rgb(156, 128, 128);
+}
+#l1 {
+    color: rgb(43, 226, 83);
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
+div{
+    height: 300px;
+    width: 500px;
+    background-color: blanchedalmond;
+    text-align: center;
+    border: 5px solid black;
+    padding: 40px;
+    margin: 50px;
+}
